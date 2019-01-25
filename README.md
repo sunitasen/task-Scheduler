@@ -1,2 +1,3 @@
 # task-Scheduler
-A desktop app to manage daily tasks
+A desktop app to manage daily tasks :smiley:
+Made with :love: using Electron. 
