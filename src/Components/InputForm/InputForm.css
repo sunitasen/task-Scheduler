@@ -1,0 +1,38 @@
+.topicinput{
+    align-content: center;
+    margin-left: 170px;
+    width: 350px;
+    border-radius: 100px;
+    background-color: beige;
+    height: 2em;
+    border: 1px solid black;
+}
+
+.inputsec{
+    display: -webkit-flex; /* Safari */
+    -webkit-align-items: center; /* Safari 7.0+ */
+    display: flex;
+    align-items: center;
+}
+
+.typesel{
+    align-self: center;
+    border-radius: 100px;
+    margin-left: 10px;
+    background-color: beige;
+    height: 2em;
+    border: 1px solid black;
+}
+
+#add{
+    align-self: center;
+    border-radius: 100px;
+    margin-left: 10px;
+    background-color: rgb(238, 73, 32);
+    height: 2em;
+    border: 1px solid black;
+}
+
+#add:hover{
+    background-color: greenyellow;
+}

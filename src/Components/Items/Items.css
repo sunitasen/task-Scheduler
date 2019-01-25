@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light');
+
+.listt{
+    margin-left: 200px;
+    margin-top: 20px;
+    color: aliceblue;
+}
+
+.bla{
+    margin-top: 10px;
+    margin-left: 40px;
+
+}
+
+.row{
+    color: wheat;
+    font-family: 'Shadows Into Light', cursive;
+    margin-top: 5px;
+}
+
+.rowhead{
+    padding-bottom: 50px;
+    font-family: 'Indie Flower',cursive;
+}
